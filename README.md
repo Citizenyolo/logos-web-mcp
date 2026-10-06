@@ -91,7 +91,7 @@ Large Logos libraries can contain hundreds or thousands of books. For a serious 
 
 The example Skill explores a different AI interaction model: a Senior Theological Research Librarian. Rather than stopping at a small number of search results and a short summary, it can search iteratively across your personal Logos library, follow promising authors, concepts, references, and primary sources, and identify the strongest material for deeper reading.
 
-Importantly, the goal is not to outsource theological interpretation, analysis, or synthesis to AI. The AI acts as a research guide: helping the user navigate a library that may be too large to search manually, explaining why particular sources matter, and producing a structured bibliography linked back to the original sources. When the Logos desktop app is installed on the Mac, these links can open the relevant resource — at the referenced location where available — directly in Logos. The intended endpoint is better human reading and research, not replacing it.
+Importantly, the goal is not to outsource theological interpretation, analysis, or synthesis to AI. The AI acts as a research guide: helping the user navigate a library that may be too large to search manually, explaining why particular sources matter, and producing a structured bibliography linked back to the original sources. When the Logos desktop app is installed on the Mac, these links can open the relevant resource — at the referenced location where available — directly in Logos. The intended endpoint is better human reading and research, not a replacement for it.
 
 
 
