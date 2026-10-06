@@ -85,6 +85,15 @@ This server exposes 4 specific tools to your LLM:
 
 To see how this MCP can be paired with an LLM to act as a "Theological Research Librarian", see the included example skill instructions in the `example-agent-skill/` directory.
 
+### Why a Theological Research Librarian?
+
+Large Logos libraries can contain hundreds or thousands of books. For a serious research question, the challenge is often not obtaining a quick answer, but discovering which sources in that library contain the deepest and most relevant treatment of the subject.
+
+The example Skill explores a different AI interaction model: a Senior Theological Research Librarian. Rather than stopping at a small number of search results and a short summary, it can search iteratively across your personal Logos library, follow promising authors, concepts, references, and primary sources, and identify the strongest material for deeper reading.
+
+Importantly, the goal is not to outsource theological interpretation, analysis, or synthesis to AI. The AI acts as a research guide: helping the user navigate a library that may be too large to search manually, explaining why particular sources matter, and producing a structured bibliography linked back to the original sources. When the Logos desktop app is installed on the Mac, these links can open the relevant resource — at the referenced location where available — directly in Logos. The intended endpoint is better human reading and research, not replacing it.
+
+
 
 > **Note on Portability:** The included `SKILL.md` represents one working configuration optimized for an environment that supports persistent file/artifact creation (like Antigravity). Different MCP/AI clients may support skills, system prompts, and file creation differently. You should adapt the example Skill to match your client’s specific capabilities and your own preferences.
 
