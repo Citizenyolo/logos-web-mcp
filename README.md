@@ -27,6 +27,14 @@ This MCP operates **entirely client-side** and relies completely on your own aut
 4. The request executes within the authenticated app.logos.com Safari context and uses the browser's existing authenticated session.
 5. The MCP does not extract or persist passwords, session tokens, or cookies.
 
+## 🔒 Data Flow and Privacy
+
+* The MCP retrieves content from your licensed Logos library through your authenticated Safari session.
+* Retrieved search results and book/context excerpts are returned locally to your configured MCP client.
+* Depending on your MCP client's configuration, that content may subsequently be sent to the AI/model provider used by that client for processing and synthesis.
+* This project itself does not operate an external server and does not independently store or transmit retrieved Logos content to any third-party service.
+* You should understand the privacy, data retention, and content-handling policies of your chosen MCP client and AI/model provider.
+
 ## 📋 Prerequisites
 
 - **macOS** (Requires AppleScript / `osascript`).
