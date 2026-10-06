@@ -97,8 +97,6 @@ Importantly, the goal is not to outsource theological interpretation, analysis, 
 
 > **Note on Portability:** The included `SKILL.md` represents one working configuration optimized for an environment that supports persistent file/artifact creation (like Antigravity). Different MCP/AI clients may support skills, system prompts, and file creation differently. You should adapt the example Skill to match your client’s specific capabilities and your own preferences.
 
-## 🤝 Contributing
-Contributions are welcome. Please ensure that all pull requests respect the foundational architectural principle of this project: zero persistence of credentials and strict reliance on the user's active Safari context.
 
 ## 📜 License
 [MIT License](LICENSE)
