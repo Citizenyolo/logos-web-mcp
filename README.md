@@ -8,7 +8,7 @@ A specialized Model Context Protocol (MCP) server that provides retrieval tools 
 
 This is an independent, experimental open-source project and is not affiliated with, endorsed by, or supported by Logos/Faithlife.
 
-The project is intended as a proof of concept for personal, human-initiated research using resources to which the user already has legitimate access. It is deliberately designed for focused retrieval rather than crawling, bulk extraction, library replication, or model training.
+The project is intended as a proof of concept for personal, human-initiated research using resources to which the user already has legitimate access. It is deliberately designed for focused retrieval rather than crawling, bulk extraction, library replication, or model training. Its platform scope is intentionally narrow: this proof-of-concept implementation supports macOS and Safari only and provides no automated installer.
 
 Logos’ Terms of Service contain restrictions concerning automated access, AI systems, APIs, scraping, and related uses. Those terms may change over time. Before using this software, review the current Logos Terms of Service and obtain any permission that may be required for your intended use.
 
