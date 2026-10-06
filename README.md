@@ -77,6 +77,9 @@ This server exposes 4 specific tools to your LLM:
 
 To see how this MCP can be paired with an LLM to act as a "Theological Research Librarian", see the included example skill instructions in the `example-agent-skill/` directory.
 
+
+> **Note on Portability:** The included `SKILL.md` represents one working configuration optimized for an environment that supports persistent file/artifact creation (like Antigravity). Different MCP/AI clients may support skills, system prompts, and file creation differently. You should adapt the example Skill to match your client’s specific capabilities and your own preferences.
+
 ## 🤝 Contributing
 Contributions are welcome. Please ensure that all pull requests respect the foundational architectural principle of this project: zero persistence of credentials and strict reliance on the user's active Safari context.
 
