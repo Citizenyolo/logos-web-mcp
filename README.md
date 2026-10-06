@@ -42,25 +42,9 @@ This MCP operates **entirely client-side** and relies completely on your own aut
 - **Node.js** (v18+ recommended).
 - **Legitimate Logos Account** with an active library.
 
-## 🚀 Installation & Setup
+## ⚙️ MCP Client Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Citizenyolo/logos-web-mcp.git
-   cd logos-web-mcp
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Build the TypeScript files:**
-   ```bash
-   npm run build
-   ```
-
-4. **Add to your MCP Client configuration (e.g., Antigravity or Claude Desktop):**
+Add this to your MCP Client configuration (e.g., Antigravity or Claude Desktop):
    ```json
    {
      "mcpServers": {
